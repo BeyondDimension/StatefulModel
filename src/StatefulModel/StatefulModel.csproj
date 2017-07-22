@@ -2,12 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.6.0.0</Version>
+    <Version>0.1.0.0</Version>
     <Company />
     <Copyright>Copyright (C) Masanori Onoue (@ugaya40),  2015</Copyright>
-    <Description />
-    <Authors>Masanori Onoue</Authors>
+    <Description>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</Description>
+    <Authors>Masanori Onoue, Jose Fajardo</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>StatefulModel.Standard</PackageId>
+    <PackageProjectUrl>https://github.com/liquidboy/StatefulModel</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/liquidboy/StatefulModel/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageReleaseNotes>.NETStandard 2.0 version</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StatefulModel.nuspec" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Properties\" />

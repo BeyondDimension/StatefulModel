@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
-    <metadata>
-        <id>StatefulModel-Standard</id>
-        <version>0.6.0</version>
-        <title>StatefulModel</title>
-        <authors>Masanori Onoue (@ugaya40), Jose Fajardo (@josefajardo)</authors>
-        <owners>Masanori Onoue (@ugaya40)</owners>
-        <licenseUrl>https://github.com/liquidboy/StatefulModel/blob/master/LICENSE</licenseUrl>
-        <projectUrl>https://github.com/liquidboy/StatefulModel</projectUrl>
-        <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</description>
-        <summary>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</summary>
-        <copyright>Copyright (C) Masanori Onoue (@ugaya40),  2015</copyright>
-        <language>en-US</language>
-        <tags>MVVM</tags>
-    </metadata>
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>StatefulModel</id>
+    <version>0.1.0</version>
+    <title>StatefulModel</title>
+    <authors>Masanori Onoue (@ugaya40), Jose Fajardo (@josefajardo)</authors>
+    <owners>Masanori Onoue (@ugaya40)</owners>
+    <licenseUrl>https://github.com/liquidboy/StatefulModel/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/liquidboy/StatefulModel</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</description>
+    <releaseNotes>.NETStandard 2.0 version</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>MVVM</tags>
+  </metadata>
 </package>
