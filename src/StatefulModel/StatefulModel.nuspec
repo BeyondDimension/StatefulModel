@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>StatefulModel</id>
+        <id>StatefulModel-Standard</id>
         <version>0.6.0</version>
         <title>StatefulModel</title>
-        <authors>Masanori Onoue (@ugaya40)</authors>
+        <authors>Masanori Onoue (@ugaya40), Jose Fajardo (@josefajardo)</authors>
         <owners>Masanori Onoue (@ugaya40)</owners>
-        <licenseUrl>https://github.com/ugaya40/StatefulModel/blob/master/LICENSE</licenseUrl>
-        <projectUrl>https://github.com/ugaya40/StatefulModel</projectUrl>
+        <licenseUrl>https://github.com/liquidboy/StatefulModel/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/liquidboy/StatefulModel</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</description>
         <summary>Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.</summary>
