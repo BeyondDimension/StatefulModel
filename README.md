@@ -1,3 +1,5 @@
+* .NETStandard 2.0 version by Jose Fajardo
+
 # StatefulModel
 these classes are frequent use of stateful Models for M-V-Whatever.
 PCL(Portable Class Library) & MIT License.
